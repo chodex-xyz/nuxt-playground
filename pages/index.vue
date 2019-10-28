@@ -17,9 +17,7 @@
           </p>
           <p>
             For more information on Vuetify, check out the
-            <a href="https://vuetifyjs.com" target="_blank">
-              documentation </a
-            >.
+            <a href="https://vuetifyjs.com" target="_blank"> documentation </a>.
           </p>
           <p>
             If you have questions, please join the official
